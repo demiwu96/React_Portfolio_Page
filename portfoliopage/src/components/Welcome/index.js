@@ -15,8 +15,8 @@ class Welcome extends Component {
     render() {
         return (
             <div style={styles.divStyle}>
-                <p className="expand">Welcome</p>
-                <p className="expand">I am Yu-Hsuan</p>
+                <p className="expand title">Welcome</p>
+                <p className="expand title">I am Yu-Hsuan</p>
                 <div className="arrow">
                     <span></span>
                     <span></span>

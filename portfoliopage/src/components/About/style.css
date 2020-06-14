@@ -1,0 +1,67 @@
+#profile {
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.introP{
+  font-size: 16px;
+  font: "Arial";
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#profileDiv{
+  padding-top: 20px;
+}
+
+#about{
+  background-color:#d1c4e9;
+  padding-bottom: 20px;
+}
+
+.intro{
+  padding: 10px;
+}
+
+h3{
+    font-family: "Abril Fatface";
+}
+
+h5{
+  font-family: "Abril Fatface";
+}
+
+
+
+.tagTitle{
+  text-align: center;
+  font-size: 20px;
+  font-family: "Abril Fatface";
+}
+
+.tag{
+  margin: 5px;
+  cursor: default;
+  background-color: #9575cd;
+}
+
+.tag:hover{
+  background-color: #9575cd;
+}
+
+.tagDiv{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.icon-custom{
+  color:#673ab7;
+  padding: 0 20px;
+  font-size: 38px;
+}
