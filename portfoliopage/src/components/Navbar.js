@@ -1,5 +1,11 @@
 import React, { Component } from "react";
 
+const styles={
+    navbar: {
+        background: "#512da8"
+    }
+}
+
 class Navbar extends Component {
     componentDidMount() {
         const M = window.M;
@@ -12,7 +18,7 @@ class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav>
+                <nav style={styles.navbar}>
                     <div className="nav-wrapper">
                         <a href="#" data-target="slide-out" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                         <ul id="nav-mobile" className="left hide-on-med-and-down">
