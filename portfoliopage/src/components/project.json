@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+"appLink":"https://joboost.herokuapp.com/",
+"image":"https://i.ibb.co/TKfsdX6/project2.png",
+"title":"Joboost",
+"description": "This application allows empolyers to sign in and create hiring posts. Job seekers can search for jobs in different industries.",
+"github": "https://github.com/demiwu96/Joboost_Website"
+    },
+    {
+        "id":2,
+"appLink":"https://demiwu96.github.io/Budget-your-budget/",
+"title":"Budget Your Budget",
+"image":"https://i.ibb.co/Hq7nc6S/budget.jpg",
+"description":"This is an application that helps people plan their monthly expense and projects their saving amount after 5 to 30 years.",
+"github":"https://github.com/demiwu96/Budget-your-budget"
+    },
+    {
+        "id":3,
+"appLink":"https://burgerapp-042020.herokuapp.com/",
+"title":"Burger App",
+"image":"https://i.ibb.co/NrvpCLW/burger.jpg",
+"description":"This is a MVC web application that allows users to order and keep track of the burgers they have eaten.",
+"github":"https://github.com/demiwu96/Burger_App"
+    },
+    {
+        "id":4,
+"appLink":"https://note-taker-042020.herokuapp.com/",
+"title":"Note Taker",
+"image":"https://i.ibb.co/9g6Vzw6/note-Taker.jpg",
+"description":"A simple app for taking notes. The user can create, save, delete and update existing notes at any time.",
+"github":"https://github.com/demiwu96/Note_Taker"
+    },
+    {
+        "id":5,
+"appLink":"https://restaurantreservation-042020.herokuapp.com/",
+"title":"Restaurant Reservation App",
+"image":"https://i.ibb.co/RBcmWMj/Restaurant-App.png",
+"description":"This app allows users to make reservations, check current reservations and waitlist.",
+"github":"https://github.com/demiwu96/Restaurant_Reservation_app"
+    },
+    {
+        "id":6,
+"appLink":"https://demiwu96.github.io/Weather_Dashboard/",
+"title":"Weather Dashboard",
+"image":"https://i.ibb.co/kyvv18N/weather.jpg",
+"description":"An app for people to look up current weather and 5 day weather forecast in different cities with the search history shown on the side.",
+"github":"https://github.com/demiwu96/Weather_Dashboard"
+    }
+]

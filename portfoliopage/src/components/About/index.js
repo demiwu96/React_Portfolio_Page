@@ -23,7 +23,7 @@ class About extends Component {
                             </div>
                             <div className="row flex">
                                 <div className="col s12 m6 white center-align" id="profileDiv">
-                                    <img src="./image/profile.jpg" alt="profile picture" id="profile" />
+                                    <img src="https://i.ibb.co/7Rsygq4/profile.jpg" alt="profile picture" id="profile" />
                                     <h5>Yu-Hsuan (Demi)</h5>
                                     <p className="introP"><i className="material-icons small icon-custom">location_on</i>Toronto, Canada</p>
                                     <p className="introP">I am a front-end web developer. Obtained a certificate of full-stack
