@@ -5,7 +5,7 @@ function Card(props) {
         <div>
             {props.list.map(item => (
                 <div className="col s12 m6">
-                    <div className="card medium deep-purple lighten-4" key={item.id}>
+                    <div className="card medium blue lighten-5" key={item.id}>
                         <div className="card-image">
                             <a href={item.appLink}><img src={item.image} alt="screenshot of project" /></a>
                         </div>

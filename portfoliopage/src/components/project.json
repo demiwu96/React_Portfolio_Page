@@ -4,7 +4,7 @@
 "appLink":"https://joboost.herokuapp.com/",
 "image":"https://i.ibb.co/TKfsdX6/project2.png",
 "title":"Joboost",
-"description": "This application allows empolyers to sign in and create hiring posts. Job seekers can search for jobs in different industries.",
+"description": "This an job board that helps people who lost their jobs due to COVID-19 to find new jobs in different industries.",
 "github": "https://github.com/demiwu96/Joboost_Website"
     },
     {
@@ -12,7 +12,7 @@
 "appLink":"https://demiwu96.github.io/Budget-your-budget/",
 "title":"Budget Your Budget",
 "image":"https://i.ibb.co/Hq7nc6S/budget.jpg",
-"description":"This is an application that helps people plan their monthly expense and projects their saving amount after 5 to 30 years.",
+"description":"This application helps people plan their monthly expense and projects their saving amount after 5 to 30 years.",
 "github":"https://github.com/demiwu96/Budget-your-budget"
     },
     {
@@ -36,7 +36,7 @@
 "appLink":"https://restaurantreservation-042020.herokuapp.com/",
 "title":"Restaurant Reservation App",
 "image":"https://i.ibb.co/RBcmWMj/Restaurant-App.png",
-"description":"This app allows users to make reservations, check current reservations and waitlist.",
+"description":"This application allows users to make reservations, check current reservations and waitlist.",
 "github":"https://github.com/demiwu96/Restaurant_Reservation_app"
     },
     {
@@ -44,7 +44,7 @@
 "appLink":"https://demiwu96.github.io/Weather_Dashboard/",
 "title":"Weather Dashboard",
 "image":"https://i.ibb.co/kyvv18N/weather.jpg",
-"description":"An app for people to look up current weather and 5 day weather forecast in different cities with the search history shown on the side.",
+"description":"A web page for people to check current weather and 5 day weather forecast in different cities.",
 "github":"https://github.com/demiwu96/Weather_Dashboard"
     }
 ]

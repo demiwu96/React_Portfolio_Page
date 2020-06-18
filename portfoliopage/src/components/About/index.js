@@ -19,11 +19,11 @@ class About extends Component {
                         <div className="col s1"></div>
                         <div className="col s9">
                             <div className="row">
-                                <h3 className="center">About Me</h3>
+                                <h3 className="center" style={{ color: "#4a148c" }} >About Me</h3>
                             </div>
                             <div className="row flex">
                                 <div className="col s12 m6 white center-align" id="profileDiv">
-                                    <img src="https://i.ibb.co/7Rsygq4/profile.jpg" alt="profile picture" id="profile" />
+                                    <img src="https://i.ibb.co/7Rsygq4/profile.jpg" alt="profile" id="profile" />
                                     <h5>Yu-Hsuan (Demi)</h5>
                                     <p className="introP"><i className="material-icons small icon-custom">location_on</i>Toronto, Canada</p>
                                     <p className="introP">I am a front-end web developer. Obtained a certificate of full-stack
@@ -44,7 +44,7 @@ class About extends Component {
                             </div>
                             <div className="row center-align">
                                 <a href="mailto:demiwu96@gmail.com"><i className="far fa-paper-plane icon-custom"></i></a>
-                                <a href="https://github.com/demiwu96" target="_blank"><i
+                                <a href="https://github.com/demiwu96" target="_blank" rel="noopener noreferrer"><i
                                     className="fab fa-github-alt icon-custom"></i></a>
                                 <a href="www.linkedin.com/in/demiwu-2019fnh" target="_blank"><i
                                     className="fab fa-linkedin icon-custom"></i></a>
