@@ -13,4 +13,4 @@ A portfolio page created with React.
 Yu-Hsuan Wu
 
 ## Demo
-[Click here]() to see my project
+[Click here](https://demi-portfolio.herokuapp.com/) to see my page
