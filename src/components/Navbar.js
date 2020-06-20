@@ -40,9 +40,9 @@ class Navbar extends Component {
                         <a href="#name"><span className="white-text name">Yu-Hsuan Wu</span></a>
                         <a href="#email"><span className="white-text email">demiwu96@gmail.com</span></a>
                     </div></li>
-                    <li><a className="waves-effect" href="#!">Home</a></li>
-                    <li><a className="waves-effect" href="#!">Projects</a></li>
-                    <li><a className="waves-effect" href="#!">Resume</a></li>
+                    <li><Link to="/" className={useLocation.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link></li>
+                            <li><Link to="/projects" className={useLocation.pathname === "/projects" ? "nav-link active" : "nav-link"}>Projects</Link></li>
+                            <li><a href={Resume}>Resume</a></li>
                 </ul>
             </div>
 
