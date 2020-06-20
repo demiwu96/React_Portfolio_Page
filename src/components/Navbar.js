@@ -34,15 +34,15 @@ class Navbar extends Component {
                 <ul id="slide-out" className="sidenav">
                     <li><div className="user-view">
                         <div className="background">
-                            <img src="https://i.ibb.co/YDcv03X/cat-paw-m.png" alt="backgound of sidenav-cat paw"/>
+                            <img src="https://i.ibb.co/YDcv03X/cat-paw-m.png" alt="backgound of sidenav-cat paw" />
                         </div>
-                        <img className="circle" src="https://i.ibb.co/7Rsygq4/profile.jpg" alt="profile"/>
+                        <img className="circle" src="https://i.ibb.co/7Rsygq4/profile.jpg" alt="profile" />
                         <a href="#name"><span className="white-text name">Yu-Hsuan Wu</span></a>
                         <a href="#email"><span className="white-text email">demiwu96@gmail.com</span></a>
                     </div></li>
-                    <li><a className="waves-effect" href="#!">Home</a></li>
-                    <li><a className="waves-effect" href="#!">Projects</a></li>
-                    <li><a className="waves-effect" href="#!">Resume</a></li>
+                    <li><Link to="/" className={useLocation.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link></li>
+                    <li><Link to="/projects" className={useLocation.pathname === "/projects" ? "nav-link active" : "nav-link"}>Projects</Link></li>
+                    <li><a href={Resume}>Resume</a></li>
                 </ul>
             </div>
 
